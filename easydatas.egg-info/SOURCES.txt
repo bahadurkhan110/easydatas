@@ -1,0 +1,6 @@
+setup.py
+easydatas.egg-info/PKG-INFO
+easydatas.egg-info/SOURCES.txt
+easydatas.egg-info/dependency_links.txt
+easydatas.egg-info/requires.txt
+easydatas.egg-info/top_level.txt

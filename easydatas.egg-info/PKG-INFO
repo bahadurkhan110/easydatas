@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: easydatas
+Version: 0.1
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: joblib
