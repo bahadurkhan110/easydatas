@@ -4,20 +4,20 @@ EasyDS is a Python library designed to simplify common tasks in the data science
 
 ## Installation
 
-You can install EasyDS using pip. Run the following command in your terminal:
+You can install EasyDataS using pip. Run the following command in your terminal:
 
 ```bash
-pip install easyds
+pip install easydatas
 ```
 
 ## Getting Started
 
 Here's a quick example demonstrating how to use EasyDS:
 
-from easyds.core.data import read_data
-from easyds.core.preprocessing import preprocess_data
-from easyds.core.model import train_classification_model
-from easyds.core.evaluation import evaluate_classification_model
+from easydatas.core.data import read_data
+from easydatas.core.preprocessing import preprocess_data
+from easydatas.core.model import train_classification_model
+from easydatas.core.evaluation import evaluate_classification_model
 
 ## Read data
 
