@@ -1,6 +1,0 @@
-setup.py
-easyds.egg-info/PKG-INFO
-easyds.egg-info/SOURCES.txt
-easyds.egg-info/dependency_links.txt
-easyds.egg-info/requires.txt
-easyds.egg-info/top_level.txt
